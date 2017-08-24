@@ -9,11 +9,7 @@ The initial structure is:
 
 1 - There will be a council always composed of 9 members. They are the Council team in our organization.
 
-* Current team members are: Ejhfast, localhuman, canesin, lucianoengel, totalvm, fabwa, AshRolls, anfn101, and lllwvlvwlll.
-
 2 - There will be a high council composed of 4 members of the council. They are the Maintainers of the Council team.
-
-* Current team maintainers are: Ejhfast, canesin, lucianoengel, and fabwa.
 
 3 - Any member of CoZ can create and collaborate on projects.
 
